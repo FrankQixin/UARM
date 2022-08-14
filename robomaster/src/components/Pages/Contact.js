@@ -5,14 +5,14 @@ export const Contact = () => {
   return (
     <div>
       <div className="title">
-        <h3>Join US</h3>
+        <h3>Contact US</h3>
       </div>
       <div className="email-info">
-          <p>If you have any questions or would like to become a sponser,please contact us at <a href="mailto:robomaster@ualberta.ca">robomaster@ualberta.ca</a></p>    
+          <p>If you have any questions or would like to become a sponser, please contact us at <a href="mailto:robomaster@ualberta.ca">robomaster@ualberta.ca</a>.</p>    
       </div>
       <div className="info-container">
       <div className="map">
-          <iframe title="loc" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2371.826020928637!2d-113.52977903400397!3d53.52516396900289!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x53a02189e0dfae9d%3A0x64eb2c39b51fa60b!2sEngineering%20Teaching%20and%20Learning%20Complex!5e0!3m2!1sen!2sca!4v1660458492356!5m2!1sen!2sca" width="600" height="450"  allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+          <iframe className='loc' title="loc" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2371.826020928637!2d-113.52977903400397!3d53.52516396900289!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x53a02189e0dfae9d%3A0x64eb2c39b51fa60b!2sEngineering%20Teaching%20and%20Learning%20Complex!5e0!3m2!1sen!2sca!4v1660458492356!5m2!1sen!2sca" width="600" height="450"  allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         </div>
         <div className="contact-info">
             <p className="contact-info-title">Contact Information</p>
