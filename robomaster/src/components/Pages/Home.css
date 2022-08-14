@@ -1,0 +1,22 @@
+.body{
+    background-color: black;
+}
+
+
+.intro-video{
+    height:80%;
+    width: 100%;
+    background-color: rgb(212, 212, 212);
+    align-items: center;
+    text-align: center;
+}
+
+video {
+    object-fit: fill;
+    margin-top: 5%;
+    
+  }
+.intro-name{
+   top: 300px;
+}
+

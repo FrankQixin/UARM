@@ -1,2 +1,0 @@
-# UARM
-Ualberta Robomaster website

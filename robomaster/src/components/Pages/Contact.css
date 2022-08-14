@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Arvo:wght@700&family=Roboto&display=swap');
+
+.title{
+    margin-top: 20px;
+    color:black ;
+    font-family: 'Arvo', serif;
+    font-family: 'Roboto', sans-serif;
+    
+}
+
+.email-info{
+    font-size: large;
+    font-weight: 500;
+    margin-top: 20px;
+}
+
+.info-container{
+    text-align:center;
+    margin-top: 60px;
+}
+.contact-info{
+    margin-left: 50%;
+    margin-top: 3%;
+    border: 0.2px solid;
+    width: 20%;
+}
+.contact-info-title{
+    font-size: x-large;
+    font-weight: 700;
+    font-family: 'Arvo', serif;
+    font-family: 'Roboto', sans-serif;
+    
+}
+
+.contact-info-list{
+    margin-top: 10px;
+    font-size: medium;
+    text-align: left;
+    list-style-type:none;
+    margin-left: 35%;
+}
+.contact-icon{
+    margin-top: 10px;
+    margin-left:  35%;
+}
+.contact-icon a{
+    display: inline;
+    float: left;
+    width: 60px;
+     
+}
+
+
+
+.map ,.contact-info{
+    display:inline;
+}
